@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ofirn\\ofir things\\studying\\college\\kinneret college\\year 2\\coop by muktaren muatez\\exercise1\\exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{321797E1-2EA9-4F95-9586-9CAE51AF41C0}|exercise1\\exercise1.vcxproj|C:\\Users\\ofirn\\ofir things\\studying\\college\\kinneret college\\year 2\\coop by muktaren muatez\\exercise1\\exercise1\\exercise1\\q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{321797E1-2EA9-4F95-9586-9CAE51AF41C0}|exercise1\\exercise1.vcxproj|solutionrelative:exercise1\\q3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321797E1-2EA9-4F95-9586-9CAE51AF41C0}|exercise1\\exercise1.vcxproj|C:\\Users\\ofirn\\ofir things\\studying\\college\\kinneret college\\year 2\\coop by muktaren muatez\\exercise1\\exercise1\\exercise1\\q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{321797E1-2EA9-4F95-9586-9CAE51AF41C0}|exercise1\\exercise1.vcxproj|solutionrelative:exercise1\\q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321797E1-2EA9-4F95-9586-9CAE51AF41C0}|exercise1\\exercise1.vcxproj|C:\\Users\\ofirn\\ofir things\\studying\\college\\kinneret college\\year 2\\coop by muktaren muatez\\exercise1\\exercise1\\exercise1\\q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{321797E1-2EA9-4F95-9586-9CAE51AF41C0}|exercise1\\exercise1.vcxproj|solutionrelative:exercise1\\q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "q3.cpp",
+              "DocumentMoniker": "C:\\Users\\ofirn\\ofir things\\studying\\college\\kinneret college\\year 2\\coop by muktaren muatez\\exercise1\\exercise1\\exercise1\\q3.cpp",
+              "RelativeDocumentMoniker": "exercise1\\q3.cpp",
+              "ToolTip": "C:\\Users\\ofirn\\ofir things\\studying\\college\\kinneret college\\year 2\\coop by muktaren muatez\\exercise1\\exercise1\\exercise1\\q3.cpp",
+              "RelativeToolTip": "exercise1\\q3.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T22:53:39.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "q2.cpp",
+              "DocumentMoniker": "C:\\Users\\ofirn\\ofir things\\studying\\college\\kinneret college\\year 2\\coop by muktaren muatez\\exercise1\\exercise1\\exercise1\\q2.cpp",
+              "RelativeDocumentMoniker": "exercise1\\q2.cpp",
+              "ToolTip": "C:\\Users\\ofirn\\ofir things\\studying\\college\\kinneret college\\year 2\\coop by muktaren muatez\\exercise1\\exercise1\\exercise1\\q2.cpp",
+              "RelativeToolTip": "exercise1\\q2.cpp",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAAKAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T06:15:49.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "q1.cpp",
+              "DocumentMoniker": "C:\\Users\\ofirn\\ofir things\\studying\\college\\kinneret college\\year 2\\coop by muktaren muatez\\exercise1\\exercise1\\exercise1\\q1.cpp",
+              "RelativeDocumentMoniker": "exercise1\\q1.cpp",
+              "ToolTip": "C:\\Users\\ofirn\\ofir things\\studying\\college\\kinneret college\\year 2\\coop by muktaren muatez\\exercise1\\exercise1\\exercise1\\q1.cpp",
+              "RelativeToolTip": "exercise1\\q1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T06:07:10.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
