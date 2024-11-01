@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BCAD18-A6DF-4F1D-8961-38A3FDC8C755}|exercise2-zoom\\exercise2-zoom.vcxproj|D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8BCAD18-A6DF-4F1D-8961-38A3FDC8C755}|exercise2-zoom\\exercise2-zoom.vcxproj|solutionrelative:exercise2-zoom\\date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BCAD18-A6DF-4F1D-8961-38A3FDC8C755}|exercise2-zoom\\exercise2-zoom.vcxproj|D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8BCAD18-A6DF-4F1D-8961-38A3FDC8C755}|exercise2-zoom\\exercise2-zoom.vcxproj|solutionrelative:exercise2-zoom\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BCAD18-A6DF-4F1D-8961-38A3FDC8C755}|exercise2-zoom\\exercise2-zoom.vcxproj|D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8BCAD18-A6DF-4F1D-8961-38A3FDC8C755}|exercise2-zoom\\exercise2-zoom.vcxproj|solutionrelative:exercise2-zoom\\date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BCAD18-A6DF-4F1D-8961-38A3FDC8C755}|exercise2-zoom\\exercise2-zoom.vcxproj|D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\trip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8BCAD18-A6DF-4F1D-8961-38A3FDC8C755}|exercise2-zoom\\exercise2-zoom.vcxproj|solutionrelative:exercise2-zoom\\trip.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BCAD18-A6DF-4F1D-8961-38A3FDC8C755}|exercise2-zoom\\exercise2-zoom.vcxproj|D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\trip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8BCAD18-A6DF-4F1D-8961-38A3FDC8C755}|exercise2-zoom\\exercise2-zoom.vcxproj|solutionrelative:exercise2-zoom\\trip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "trip.h",
+              "DocumentMoniker": "D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\trip.h",
+              "RelativeDocumentMoniker": "exercise2-zoom\\trip.h",
+              "ToolTip": "D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\trip.h",
+              "RelativeToolTip": "exercise2-zoom\\trip.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-25T21:19:52.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "trip.cpp",
+              "DocumentMoniker": "D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\trip.cpp",
+              "RelativeDocumentMoniker": "exercise2-zoom\\trip.cpp",
+              "ToolTip": "D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\trip.cpp",
+              "RelativeToolTip": "exercise2-zoom\\trip.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T21:19:40.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\main.cpp",
+              "RelativeDocumentMoniker": "exercise2-zoom\\main.cpp",
+              "ToolTip": "D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\main.cpp",
+              "RelativeToolTip": "exercise2-zoom\\main.cpp",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T18:41:50.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "date.h",
+              "DocumentMoniker": "D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\date.h",
+              "RelativeDocumentMoniker": "exercise2-zoom\\date.h",
+              "ToolTip": "D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\date.h",
+              "RelativeToolTip": "exercise2-zoom\\date.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-25T18:40:34.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "date.cpp",
+              "DocumentMoniker": "D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\date.cpp",
+              "RelativeDocumentMoniker": "exercise2-zoom\\date.cpp",
+              "ToolTip": "D:\\ofir\\repository_folders\\cpp-course\\exercise2-zoom\\exercise2-zoom\\date.cpp",
+              "RelativeToolTip": "exercise2-zoom\\date.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T18:40:23.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
