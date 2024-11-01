@@ -147,5 +147,7 @@ Trip* AddTrip(Trip* arr, int size)
 
 	*tempArr = newTrip;
 	
+	cout << &newTrip << endl;
+
 	return newTripArr;
 }

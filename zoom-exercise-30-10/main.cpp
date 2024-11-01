@@ -55,7 +55,19 @@ bool IsEmpty(int size)
 
 void deleteTrips(ManagementTrips* mts)
 {
-    
+	int day,month,year;
+    cout << "type the date of the trip you want to delete:" << endl;
+	cout << "day: ";
+	cin >> day;
+	cout << "\nmonth: ";
+	cin >> month;
+	cout << "\nyear: ";
+	cin >> year;
+	
+	Date deleteDate = Date(day, month, year);
+	Trip deleteTrip = Trip("yrip to delete by", deleteDate);
+
+	*mts -= &deleteTrip;
 }
 
 
@@ -130,8 +142,8 @@ void AddTrip(ManagementTrips* mts)
 	cin >> year;
 	
 	Date newTripDate = Date(day, month, year);
-	Trip tripToAdd = Trip(newDest, newTripDate);
+	Trip* tripToAdd = new Trip(newDest, newTripDate);
 
 
-	*mts += &tripToAdd;
+	*mts += tripToAdd;
 }
