@@ -54,7 +54,6 @@ void ManagementTrips::operator-=(Trip* trip1)
 
     trips = tempTripsArr;
     index -= toDelCount;
-    
 }
 
 ostream& operator<<(ostream& out, ManagementTrips manageTrips)
