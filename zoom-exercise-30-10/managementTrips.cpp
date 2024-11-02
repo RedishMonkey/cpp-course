@@ -12,19 +12,21 @@ ManagementTrips::ManagementTrips()
 
 void ManagementTrips::operator+=(Trip* trip1)
 {
-    Trip** tempTripsArr = new Trip*[index + 1];
 
-
+    Trip** tempTripsArr = new Trip*[index+2];
+    
     for (int i = 0; i < index; i++)
     {
-        tempTripsArr[i] = this->trips[i];
+
+        tempTripsArr[i] = trips[i];
     }
-    
+
 
     tempTripsArr[index] = trip1;
     index++;
     
-    this->trips=tempTripsArr;
+    delete[] trips;
+    trips=tempTripsArr;
     
 }
 
@@ -41,24 +43,25 @@ void ManagementTrips::operator-=(Trip* trip1)
     }
 
     Trip** tempTripsArr = new Trip*[index - toDelCount];
+    int tripsMovedCount = 0;
 
     for (int i = 0; i < index; i++)
     {
         if (!(this->trips[i]->GetDate() == trip1->GetDate()))
         {
-            tempTripsArr[i] = this->trips[i];
+            tempTripsArr[tripsMovedCount] = this->trips[i];
         }
     }
 
     trips = tempTripsArr;
-    
+    index -= toDelCount;
 }
 
 ostream& operator<<(ostream& out, ManagementTrips manageTrips)
 {
     for (int i = 0; i < manageTrips.index; i++)
     {
-        out << ((manageTrips.trips[i])) << endl;
+        out << *(manageTrips.trips[i]) << endl;
     }
 
     if (manageTrips.index == 0)
@@ -69,14 +72,5 @@ ostream& operator<<(ostream& out, ManagementTrips manageTrips)
     return out;
 }
 
-int ManagementTrips::GetIndex()
-{
-    return index;
-}
-
-Trip** ManagementTrips::GetTrips()
-{
-    return trips;
-}
 
 
