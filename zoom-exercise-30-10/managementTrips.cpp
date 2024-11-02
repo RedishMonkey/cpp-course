@@ -12,8 +12,8 @@ ManagementTrips::ManagementTrips()
 
 void ManagementTrips::operator+=(Trip* trip1)
 {
-    Trip** tempTripsArr = new Trip*[index+1];
-    
+    Trip** tempTripsArr = new Trip*[index + 1];
+
 
     for (int i = 0; i < index; i++)
     {
