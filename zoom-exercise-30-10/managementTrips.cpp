@@ -14,7 +14,7 @@ void ManagementTrips::operator+=(Trip* trip1)
 {
 
     Trip** tempTripsArr = new Trip*[index+2];
-    
+
     for (int i = 0; i < index; i++)
     {
 
@@ -27,7 +27,6 @@ void ManagementTrips::operator+=(Trip* trip1)
     
     delete[] trips;
     trips=tempTripsArr;
-    
 }
 
 void ManagementTrips::operator-=(Trip* trip1)

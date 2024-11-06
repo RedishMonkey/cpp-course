@@ -38,20 +38,11 @@ int main()
 		}
 	}while (option != 4);
 
-    
+
     return 0;
 }
 
 
-
-bool IsEmpty(int size)
-{
-	if (size > 0)
-	{
-		return false;
-	}
-	return true;
-}
 
 void deleteTrips(ManagementTrips* mts)
 {
@@ -68,62 +59,6 @@ void deleteTrips(ManagementTrips* mts)
 	Trip deleteTrip = Trip("yrip to delete by", deleteDate);
 
 	*mts -= &deleteTrip;
-}
-
-
-
-void EditTrip(Trip* arr, int size)
-{
-	int tripNum;
-	Trip* chosenTrip = nullptr;
-	cout << "enter a trip number: ";
-	cin >> tripNum;
-	cout << "\n";
-	if (size <= 0)
-	{
-		cout << "the array is empty\n\n";
-		return;
-	}
-
-	for (int i = 0; i < size; i++)
-	{
-		if (arr[i].GetTripNum() == tripNum)
-		{
-			chosenTrip = &arr[i];
-		}
-	}
-	if (chosenTrip == nullptr)
-	{
-		cout << "a trip with this number doesnt exist" << endl;
-		return;
-	}
-
-	char answer;
-	cout << "would you like to update the destination? y-yes, n-no: ";
-	cin >> answer;
-	if (answer == 'y')
-	{
-		string newDest;
-		cout << "\nnew destination: ";
-		cin >> newDest;
-		chosenTrip->SetDest(newDest);
-	}
-	cout << "\nwould you like to update the date? y-yes, n-no: ";
-	cin >> answer;
-	if (answer == 'y')
-	{
-		int newDay, newMonth, newYear;
-		cout << "\nday: ";
-		cin >> newDay;
-		cout << "\nmonth: ";
-		cin >> newMonth;
-		cout << "\nyear: ";
-		cin >> newYear;
-
-		Date newDate = Date(newDay, newMonth, newYear);
-		chosenTrip->SetDate(newDate);
-	}
-	cout << "\n";
 }
 
 void AddTrip(ManagementTrips* mts)
